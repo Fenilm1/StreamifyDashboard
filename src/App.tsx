@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useMemo, lazy, Suspense } from "react";
+import { useState, useMemo, lazy, Suspense } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "./components/ui/card";
 import { ArrowUpDown } from "lucide-react";
 import {
